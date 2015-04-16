@@ -1,0 +1,16 @@
+{
+	"bold_folder_labels": true,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"show_encoding": true,
+	"spell_check": true,
+	"dictionary": "Packages/Languages/ru/Russian.dic",
+	"rulers": [ 79 ],
+	"tab_size": 4,
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+}
